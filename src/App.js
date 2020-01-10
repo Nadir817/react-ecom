@@ -1,15 +1,19 @@
 import React from "react";
 import "./App.css";
-import HomePage from "./pages/homepage/homepage.component";
-import ShopPage from "./pages/shoppage/shoppage.component";
+import Header from "./components/header/header";
+import HomePage from "./pages/homepage/homepage";
+import ShopPage from "./pages/shoppage/shoppage";
+import SignInAndSignUp from "./pages/sign-in-sign-up/signin-and-signup";
 import { Switch, Route } from "react-router-dom";
 
 function App() {
   return (
     <div>
+      <Header />
       <Switch>
         <Route exact path="/" component={HomePage} />
-        <Route exact path="/shop" component={ShopPage} />
+        <Route path="/shop" component={ShopPage} />
+        <Route path="/signin" component={SignInAndSignUp} />
       </Switch>
     </div>
   );
