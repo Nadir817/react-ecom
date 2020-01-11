@@ -3,6 +3,10 @@
   display: flex;
   flex-direction: column;
 
+  .title {
+    margin: 10px 0;
+  }
+
   .btns {
     width: 100%;
     display: flex;
