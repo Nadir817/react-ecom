@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Header from "./components/header/Header";
+import Header from "./components/header/header";
 import HomePage from "./pages/homepage/Homepage";
 import ShopPage from "./pages/shoppage/ShopPage";
 import SignInAndSignUp from "./pages/sign-in-sign-up/SignInAndSignUp";
