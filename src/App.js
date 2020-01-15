@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
 import Header from "./components/header/header";
-import HomePage from "./pages/homepage/Homepage";
-import ShopPage from "./pages/shoppage/ShopPage";
-import SignInAndSignUp from "./pages/sign-in-sign-up/SignInAndSignUp";
+import HomePage from "./pages/homepage/homepage";
+import ShopPage from "./pages/shoppage/shopPage";
+import SignInAndSignUp from "./pages/sign-in-sign-up/signinandsignup";
 import Checkout from "./pages/checkout/Checkout";
 import { Switch, Route, Redirect } from "react-router-dom";
 import { auth, createUserProfileDocument } from "./firebase/firebase.utils";
