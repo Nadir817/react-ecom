@@ -19,19 +19,19 @@ const initialState = {
       linkUrl: "shop/sneakers"
     },
     {
-      title: "womens",
+      title: "women",
       imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
       size: "large",
       id: 4,
-      linkUrl: "shop/womens"
+      linkUrl: "shop/women"
     },
     {
-      title: "mens",
+      title: "men",
       imageUrl:
         "https://images.unsplash.com/photo-1535639818669-c059d2f038e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
       size: "large",
       id: 5,
-      linkUrl: "shop/mens"
+      linkUrl: "shop/men"
     }
   ]
 };
