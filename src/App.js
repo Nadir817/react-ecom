@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Header from "./components/header/header";
 import HomePage from "./pages/homepage/homepage";
-import ShopPage from "./pages/Shoppage/ShopPage";
+import ShopPage from "./pages/ShopPage/ShopPage";
 import SignInAndSignUp from "./pages/sign-in-sign-up/signinandsignup";
 import Checkout from "./pages/checkout/Checkout";
 import { Switch, Route, Redirect } from "react-router-dom";
