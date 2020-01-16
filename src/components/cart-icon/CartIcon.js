@@ -1,5 +1,5 @@
 import React from "react";
-import "./CartIcon.scss";
+import "./carticon.scss";
 import { connect } from "react-redux";
 import { toggleCart } from "../../redux/cart/cart.action";
 import { selectCartCount } from "../../redux/cart/cart.selector";

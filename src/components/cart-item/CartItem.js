@@ -1,5 +1,5 @@
 import React from "react";
-import "./CartItem.scss";
+import "./cartitem.scss";
 
 export default function CartItem({
   item: { imageUrl, price, name, quantity }

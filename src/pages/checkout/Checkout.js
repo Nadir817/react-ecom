@@ -2,15 +2,15 @@ import React from "react";
 import { connect } from "react-redux";
 import { createStructuredSelector } from "reselect";
 
-import CheckoutItem from "../../components/checkout-item/CheckoutItem";
+import CheckoutItem from "../../components/checkout-item/checkoutitem";
 
 import {
   selectCartItems,
   selectCartTotal
 } from "../../redux/cart/cart.selector";
 
-import "./Checkout.scss";
-import StripButton from "../../components/stripe-button/StripButton";
+import "./checkout.scss";
+import StripButton from "../../components/stripe-button/stripbutton";
 
 const Checkout = ({ cartItems, total }) => (
   <div className="checkout-page">

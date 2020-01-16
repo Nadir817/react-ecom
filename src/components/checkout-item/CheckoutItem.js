@@ -6,7 +6,7 @@ import {
   removeItem
 } from "../../redux/cart/cart.action";
 
-import "./CheckoutItem.scss";
+import "./checkoutitem.scss";
 
 const CheckoutItem = ({ cartItem, clearItem, addItem, removeItem }) => {
   const { name, imageUrl, price, quantity } = cartItem;
