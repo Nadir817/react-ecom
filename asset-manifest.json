@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-ecom/static/css/main.5e8dab39.chunk.css",
+    "main.js": "/react-ecom/static/js/main.d7447b32.chunk.js",
+    "main.js.map": "/react-ecom/static/js/main.d7447b32.chunk.js.map",
+    "runtime-main.js": "/react-ecom/static/js/runtime-main.6f32aed4.js",
+    "runtime-main.js.map": "/react-ecom/static/js/runtime-main.6f32aed4.js.map",
+    "static/js/2.3691212e.chunk.js": "/react-ecom/static/js/2.3691212e.chunk.js",
+    "static/js/2.3691212e.chunk.js.map": "/react-ecom/static/js/2.3691212e.chunk.js.map",
+    "index.html": "/react-ecom/index.html",
+    "precache-manifest.e9a5f08d69ed9ef5f040461a174df4c8.js": "/react-ecom/precache-manifest.e9a5f08d69ed9ef5f040461a174df4c8.js",
+    "service-worker.js": "/react-ecom/service-worker.js",
+    "static/css/main.5e8dab39.chunk.css.map": "/react-ecom/static/css/main.5e8dab39.chunk.css.map",
+    "static/js/2.3691212e.chunk.js.LICENSE": "/react-ecom/static/js/2.3691212e.chunk.js.LICENSE",
+    "static/media/logo.png": "/react-ecom/static/media/logo.f4d18128.png",
+    "static/media/shopping-bag.30f07071.svg": "/react-ecom/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f32aed4.js",
+    "static/js/2.3691212e.chunk.js",
+    "static/css/main.5e8dab39.chunk.css",
+    "static/js/main.d7447b32.chunk.js"
+  ]
+}
