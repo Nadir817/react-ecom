@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-ecom/static/css/main.5e8dab39.chunk.css",
-    "main.js": "/react-ecom/static/js/main.9fdbaa99.chunk.js",
-    "main.js.map": "/react-ecom/static/js/main.9fdbaa99.chunk.js.map",
+    "main.js": "/react-ecom/static/js/main.e573825d.chunk.js",
+    "main.js.map": "/react-ecom/static/js/main.e573825d.chunk.js.map",
     "runtime-main.js": "/react-ecom/static/js/runtime-main.6f32aed4.js",
     "runtime-main.js.map": "/react-ecom/static/js/runtime-main.6f32aed4.js.map",
     "static/js/2.3691212e.chunk.js": "/react-ecom/static/js/2.3691212e.chunk.js",
     "static/js/2.3691212e.chunk.js.map": "/react-ecom/static/js/2.3691212e.chunk.js.map",
     "index.html": "/react-ecom/index.html",
-    "precache-manifest.14b253d77a585a3c9dc605e05d69c55e.js": "/react-ecom/precache-manifest.14b253d77a585a3c9dc605e05d69c55e.js",
+    "precache-manifest.e211245dd1d1c9a50a7f24e32a795bdf.js": "/react-ecom/precache-manifest.e211245dd1d1c9a50a7f24e32a795bdf.js",
     "service-worker.js": "/react-ecom/service-worker.js",
     "static/css/main.5e8dab39.chunk.css.map": "/react-ecom/static/css/main.5e8dab39.chunk.css.map",
     "static/js/2.3691212e.chunk.js.LICENSE": "/react-ecom/static/js/2.3691212e.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6f32aed4.js",
     "static/js/2.3691212e.chunk.js",
     "static/css/main.5e8dab39.chunk.css",
-    "static/js/main.9fdbaa99.chunk.js"
+    "static/js/main.e573825d.chunk.js"
   ]
 }
